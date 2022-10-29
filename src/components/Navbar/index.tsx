@@ -21,31 +21,31 @@ export default function Navbar() {
                     <div className='resp'>
                         <div className='imagem'>< img className='imagem_logo' src={logo} alt="" /></div>
                     </div>
-                    <a href="#" className="nav__brand">
+                    <a  className="nav__brand">
                     </a>
                     <ul className={active}>
                         <li className="nav__item">
-                            <a href="#" className="nav__link">
+                            <a   className="nav__link">
                                 /quem somos
                             </a>
                         </li>
                         <li className="nav__item">
-                            <a href="#" className="nav__link">
+                            <a   className="nav__link">
                                 /o que fazemos
                             </a>
                         </li>
                         <li className="nav__item">
-                            <a href="#" className="nav__link">
+                            <a   className="nav__link">
                                 /plan news
                             </a>
                         </li>
                         <li className="nav__item">
-                            <a href="#" className="nav__link">
+                            <a  className="nav__link">
                                 /nossos clientes
                             </a>
                         </li>
                         <li className="nav__item">
-                            <a href="#" className="nav__link">
+                            <a   className="nav__link">
                                 /contato
                             </a>
                         </li>
